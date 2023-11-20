@@ -38,6 +38,7 @@ Before running the project, ensure you have the following installed:
 Run the compiled executable:
 ```bash
 ./sorting_visualization
+```
 
 Follow the on-screen instructions to choose a sorting algorithm and observe the visualization.
 
