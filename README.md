@@ -10,7 +10,7 @@ This project demonstrates the visualization of sorting algorithms using the SDL 
 - [Usage](#usage)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Dependencies](#dependencies)
--
+
 
 ## Introduction
 
