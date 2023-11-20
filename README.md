@@ -1,5 +1,3 @@
-# Sort-Algorithm-visualzser
-
 # Sorting Visualization with SDL
 
 This project demonstrates the visualization of sorting algorithms using the SDL (Simple DirectMedia Layer) library in C++.
